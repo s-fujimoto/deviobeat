@@ -1,0 +1,8 @@
+################### Deviobeat Configuration Example #########################
+
+############################# Deviobeat ######################################
+
+deviobeat:
+  # Defines how often an event is sent to the output
+  period: 1s
+  url: http://es:9200/_count

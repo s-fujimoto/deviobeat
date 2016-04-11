@@ -1,0 +1,9 @@
+/.idea
+/build
+
+.DS_Store
+/deviobeat
+/deviobeat.test
+*.pyc
+/vendor
+/dev-tools
